@@ -1,4 +1,4 @@
-## Change Language: <a href="README.md">English</a> | <a href="README.vi.md">Tiếng Việt</a>
+## Language: <a href="README.md">English</a> | <a href="README.vi.md">Tiếng Việt</a>
 
 # Giáo Trình - Artificial Intelligence for Beginners
 
