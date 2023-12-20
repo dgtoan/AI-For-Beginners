@@ -10,7 +10,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/microsoft/ai-for-beginners/HEAD)
 [![Gitter](https://badges.gitter.im/Microsoft/ai-for-beginners.svg)](https://gitter.im/Microsoft/ai-for-beginners?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-## [English](README.md) | [Tiếng Việt](README.vi.md)
+## <a href="README.md">English</a> | <a href="README.vi.md">Tiếng Việt</a>
 
 # Artificial Intelligence for Beginners - A Curriculum
 
